@@ -8,7 +8,7 @@
 - Testing a sites throughput
 - checking the load
 - & lastly checking the lower BOTTLENECK point of that server
-and report is generated with CLI
+  and report is generated with CLI
 ![2023-12-05 17_39_20-Apache JMeter Dashboard](https://github.com/v3ndi/Random-User-API-Performance-Test/assets/83697980/6e2bb53f-5269-49f6-bf96-0fbe7c3f150a)
 
 ## Report break down
